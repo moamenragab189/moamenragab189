@@ -5,10 +5,9 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  I'm a passionate <strong>Software Engineering student</strong> who enjoys building innovative solutions and solving real-world problems with code.<br>
-  I have a strong foundation in <strong>C#</strong>, <strong>Object-Oriented Programming (OOP)</strong>, and <strong>SQL</strong>, and I'm constantly improving my skills in <strong>backend development</strong> and cross-platform app development.<br>
-  Currently exploring <strong>.NET</strong> and <strong>Flutter</strong> to create full-stack and mobile applications.<br>
-  My GitHub profile serves as a space to document my journey, share projects, and collaborate with other developers.
+  I'm a passionate Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.
+  I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.
+  My journey is focused on understanding the principles of software engineering, system design, and best practices in development.
 </p>
 
 <h2 align="left">I Code With</h2>
@@ -21,20 +20,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="24" width="24" style="margin-right: 10px;" alt="dart logo" />
 </div>
 
-<h2 align="left">Frameworks & Tools</h2>
+<h2 align="left">Frameworks</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="24" width="24" style="margin-right: 10px;" alt="flutter logo" />
 </div>
 
-<h2 align="left">Characteristics</h2>
+<h2 align="left">GitHub Stats & Insights</h2>
 
-<ul align="left">
-  <li>💡 Problem Solver — I enjoy tackling challenges and finding efficient solutions.</li>
-  <li>🚀 Continuous Learner — Always exploring new technologies and improving my skills.</li>
-  <li>🤝 Team Player — I value collaboration and sharing knowledge with others.</li>
-  <li>🎯 Goal-Oriented — I set clear objectives and work consistently towards them.</li>
-</ul>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</div>
 
 <h2 align="left">Contact Me</h2>
 
