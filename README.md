@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Moamen Ragab  
-🎓 Software Engineering Student | 💻 Passionate about Flutter & Backend Development  
+🎓 Software Engineering Student 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
 
 ---
 
-## 🚀 About Me  
-- 🎓 Software Engineering student passionate about building **scalable and user-friendly applications**.  
-- 💡 Interested in **Flutter**, **backend systems**, and **software architecture**.  
-- 🔎 Always learning new technologies and improving **problem-solving skills**.  
-- 🌱 Currently working on a **sign language video calling app** using AI & Flutter.  
+##  About Me  
+-  Software Engineering student passionate about building **scalable and user-friendly applications**.  
+-  Interested in **Flutter**, **backend systems**, and **software architecture**.  
+-  Always learning new technologies and improving **problem-solving skills**.  
+-  Currently working on a **sign language video calling app** using AI & Flutter.  
 
 ---
 
