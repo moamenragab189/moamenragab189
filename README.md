@@ -28,20 +28,21 @@ My journey is focused on understanding the principles of software engineering, s
 
 ---
 
-##  GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moamenragab189&theme=tokyonight&column=6&margin-w=8&margin-h=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moamenragab189&theme=tokyonight&column=6&margin-w=10&margin-h=10"/>
+</p>
+
 
 ---
 
