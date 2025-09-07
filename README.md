@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.  
 I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.  
@@ -13,7 +13,7 @@ My journey is focused on understanding the principles of software engineering, s
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 **Languages:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="26"/> 
@@ -28,19 +28,19 @@ My journey is focused on understanding the principles of software engineering, s
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight&hide_title=false&card_width=320" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight&card_width=320" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="150"/>
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=moamenragab189&theme=tokyonight&column=4" height="150"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moamenragab189&theme=tokyonight&column=6&margin-w=8&margin-h=8" />
 </p>
 
 ---
