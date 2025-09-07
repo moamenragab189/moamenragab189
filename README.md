@@ -9,8 +9,6 @@
 -  Software Engineering student passionate about building **scalable and user-friendly applications**.  
 -  Interested in **Flutter**, **backend systems**, and **software architecture**.  
 -  Always learning new technologies and improving **problem-solving skills**.  
--  Currently working on a **sign language video calling app** using AI & Flutter.  
-
 ---
 
 ## 🛠️ Skills & Tools  
