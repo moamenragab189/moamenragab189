@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-I'm a passionate Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.  
+Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.  
 I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.  
 My journey is focused on understanding the principles of software engineering, system design, and best practices in development.  
 
@@ -33,6 +33,14 @@ My journey is focused on understanding the principles of software engineering, s
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight&hide_title=false&card_width=320" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight&card_width=320" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=moamenragab189&theme=tokyonight&column=4" height="150"/>
 </p>
 
 ---
