@@ -1,51 +1,52 @@
-<h1 align="left">Hello</h1>
+# 👋 Hi, I'm Moamen Ragab  
+🎓 Software Engineering Student | 💻 Passionate about Flutter & Backend Development  
 
-<h1 align="left"> Moamen Ragab</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
 
-<h2 align="left">About Me</h2>
+---
 
-<p align="left">
-  I'm a passionate Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.
-  I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.
-  My journey is focused on understanding the principles of software engineering, system design, and best practices in development.
-</p>
+## 🚀 About Me  
+- 🎓 Software Engineering student passionate about building **scalable and user-friendly applications**.  
+- 💡 Interested in **Flutter**, **backend systems**, and **software architecture**.  
+- 🔎 Always learning new technologies and improving **problem-solving skills**.  
+- 🌱 Currently working on a **sign language video calling app** using AI & Flutter.  
 
-<h2 align="left">I Code With</h2>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" width="24" style="margin-right: 10px;" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="24" width="24" style="margin-right: 10px;" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" width="24" style="margin-right: 10px;" alt="sql server logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" width="24" style="margin-right: 10px;" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="24" width="24" style="margin-right: 10px;" alt="dart logo" />
-</div>
+## 🛠️ Skills & Tools  
 
-<h2 align="left">Frameworks</h2>
+**Languages:**  
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++") 
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#") 
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg "Dart") 
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
+![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg "SQL Server")  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="24" width="24" style="margin-right: 10px;" alt="flutter logo" />
-</div>
+**Frameworks & Tools:**  
+![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg "Flutter") 
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git") 
 
-<h2 align="left">GitHub Stats & Insights</h2>
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</div>
+## 🌟 Featured Projects  
 
-<h2 align="left">Contact Me</h2>
+- [📱 Sign Language Video Calling App](https://github.com/yourrepo)  
+   A Flutter app that translates sign language into speech in real time, helping people with communication disabilities.  
 
-<div align="left">
-  <a href="https://linkedin.com/in/moamen-ragab" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="24" style="margin-right: 10px;" alt="linkedin logo" />
-  </a>
-  <a href="mailto:moamenragab66@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="24" style="margin-right: 10px;" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/201020641775" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="24" height="24" style="margin-right: 10px;" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.instagram.com/moamen_ragab_14?igsh=ZnBidjUwZHg0NW5h&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="24" height="24" style="margin-right: 10px;" alt="instagram logo" />
-  </a>
-</div>
+- [📊 Employee Management System](https://github.com/yourrepo)  
+   A WPF project using JSON + OOP to manage employees' data and generate reports.  
+
+---
+
+## 📊 GitHub Stats  
+
+![Moamen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&border_radius=4.5)  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/moamen-ragab)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoCol)]()
