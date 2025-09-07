@@ -16,25 +16,15 @@
 ## 🛠️ Skills & Tools  
 
 **Languages:**  
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++") 
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#") 
-![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg "Dart") 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "JavaScript")  
-![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg "SQL Server")  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="30"/>  
 
 **Frameworks & Tools:**  
-![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg "Flutter") 
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git") 
-
----
-
-## 🌟 Featured Projects  
-
-- [📱 Sign Language Video Calling App](https://github.com/yourrepo)  
-   A Flutter app that translates sign language into speech in real time, helping people with communication disabilities.  
-
-- [📊 Employee Management System](https://github.com/yourrepo)  
-   A WPF project using JSON + OOP to manage employees' data and generate reports.  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30"/>  
 
 ---
 
@@ -49,4 +39,8 @@
 ## 📫 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/moamen-ragab)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoCol)]()
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:moamenragab66@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/201020641775)  
+
+---
+✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*  
