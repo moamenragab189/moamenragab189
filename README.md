@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Moamen Ragab  
-🎓 Software Engineering Student | 💻 Flutter & .net  
+🎓 Aspiring software engineer  | 💻 .net  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
 
