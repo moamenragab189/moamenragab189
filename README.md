@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Moamen Ragab  
-🎓 Aspiring software engineer  | 💻 .net  
+🎓 Aspiring software engineer 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
 
