@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Moamen Ragab
-🎓 Aspiring Software Engineer 
+🎓 Aspiring Software Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=brightgreen&style=flat-square)
 
@@ -14,18 +14,17 @@ My journey is focused on understanding the principles of software engineering, s
 **Programming Languages**
 <img src="https://skillicons.dev/icons?i=cpp,csharp,dart,js" />
 
-**Databases & Tools**
-<img src="https://skillicons.dev/icons?i=mysql,git,vscode" />
-<!-- mysql icon represents SQL/ODBC database connectivity -->
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,vscode,flutter" />
 
-**Learning Focus** → Algorithms & Data Structures • Database Connectivity (ODBC/SQL) • Clean Code • Version Control
+**Learning Focus** → Algorithms & Data Structures • ODBC/Database Connectivity • Clean Code • Version Control
 
 ---
 ## 🔭 Currently
 
-- Strengthening core software engineering foundations through **DEPI Diploma** (Nov 2025 – Present)
-- Exploring cross-platform development and database integration
-- Daily practice with algorithms and problem-solving
+- Exploring core software engineering concepts and best practices
+- Building prototypes across different platforms
+- Daily practice with problem-solving and algorithms
 
 ---
 ## 📊 GitHub Activity & Stats
