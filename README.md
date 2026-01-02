@@ -1,35 +1,33 @@
-# 👋 Hi, I'm Moamen Ragab
+<h1 align="center">👋 Hi, I'm Moamen Ragab</h1>
+<p align="center">
+  <b>Software Engineering Student</b> · Backend & Mobile Development
+</p>
 
-**Software Engineer**  
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
-
----
-
-## 🧠 About Me
-Software Engineer dedicated to building scalable, efficient, and user-friendly solutions.  
-I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.  
-My journey is focused on understanding the principles of software engineering, system design, and best practices in development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moamenragab189&color=blue"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech I Work With
 
-**Languages**  
-C++ · C# · Dart · JavaScript
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+</p>
 
-**Frameworks & Tools**  
-Flutter · Git · ODBC
-
-**Databases**  
-SQL Server
-
-> I focus on writing clean, maintainable code and understanding how systems work end-to-end.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="32"/>
+  <img src="https://img.shields.io/badge/ODBC-Database%20Connectivity-blue?style=flat"/>
+</p>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Snapshot
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" height="150"/>
@@ -37,20 +35,19 @@ SQL Server
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-## 🤝 Get in Touch
+## 🔗 Reach Me
 
-[LinkedIn](https://linkedin.com/in/moamen-ragab)  
-📧 moamenragab66@gmail.com  
-📱 WhatsApp: +20 102 064 1775  
+<p align="center">
+  <a href="https://linkedin.com/in/moamen-ragab">LinkedIn</a> •
+  <a href="mailto:moamenragab66@gmail.com">Email</a> •
+  <a href="https://wa.me/201020641775">WhatsApp</a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile*
+✨ Thanks for stopping by
