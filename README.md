@@ -1,49 +1,53 @@
-# 👋 Hi, I'm Moamen Ragab  
-🎓 Aspiring software engineer 
+# 👋 Hi, I'm Moamen Ragab
+🎓 Aspiring Software Engineer 
 
-![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
-
----
-
-##  About Me  
-
-Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.  
-I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.  
-My journey is focused on understanding the principles of software engineering, system design, and best practices in development.  
+![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=brightgreen&style=flat-square)
 
 ---
+## About Me
+Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.
+I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.
+My journey is focused on understanding the principles of software engineering, system design, and best practices in development.
+---
+## 🛠 Skills & Technologies
 
-##  Skills & Tools  
+**Programming Languages**
+<img src="https://skillicons.dev/icons?i=cpp,csharp,dart,js" />
 
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="26"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="26"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="26"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="26"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="26"/>  
+**Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mysql,git,vscode" />
+<!-- mysql icon represents SQL/ODBC database connectivity -->
 
-**Frameworks & Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="26"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="26"/>  
+**Learning Focus** → Algorithms & Data Structures • Database Connectivity (ODBC/SQL) • Clean Code • Version Control
 
 ---
+## 🔭 Currently
 
-## 📊 GitHub Stats  
+- Strengthening core software engineering foundations through **DEPI Diploma** (Nov 2025 – Present)
+- Exploring cross-platform development and database integration
+- Daily practice with algorithms and problem-solving
 
+---
+## 📊 GitHub Activity & Stats
+
+<!-- Contribution Snake Animation -->
+![Snake animation](https://github.com/moamenragab189/moamenragab189/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/moamenragab189/moamenragab189/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<!-- Row of Stats Widgets -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=moamenragab189&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies"/>
 </p>
 
+---
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/moamen-ragab)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:moamenragab66@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://wa.me/201020641775)
 
 ---
-
-## 📫 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/moamen-ragab)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:moamenragab66@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/201020641775)  
-
----
-✨ *Thanks for visiting my profile!*
+✨ *Thanks for visiting! Open to feedback and collaboration opportunities.*
