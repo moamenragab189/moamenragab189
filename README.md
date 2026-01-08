@@ -1,35 +1,65 @@
+<h1 align="center">Hi, I'm Moamen Ragab 👋</h1>
+<h3 align="center">Software Engineer </h3>
 
- 
-# 👋 Hi, I'm Moamen Ragab
-🎓 Aspiring software engineer
-![Profile Views](https://komarev.com/ghpvc/?username=moamenragab189&color=blue)
----
-## About Me
-Software Engineering student dedicated to building scalable, efficient, and user-friendly solutions.
-I enjoy solving problems, learning new technologies, and continuously improving my skills to grow as a professional in the software development field.
-My journey is focused on understanding the principles of software engineering, system design, and best practices in development.
----
-## Skills & Tools
-**Languages:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="26"/>
-**Frameworks & Tools:**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="26"/>
----
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamenragab189&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moamenragab189&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=moamenragab189&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 ---
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/moamen-ragab)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:moamenragab66@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/201020641775)
+
+## 👨‍💻 About Me
+I’m a **Software Engineer** with a strong interest in **backend development** and **mobile applications**.  
+I focus on building **clean, structured systems**, understanding how things work under the hood, and writing code that **scales efficiently**.
+
 ---
-✨ *Thanks for visiting my profile!*
+
+## 🚧 Current Projects
+
+### **MyMarket – E-Commerce System (In Progress)**
+A backend-focused e-commerce system built with **.NET** and **SQL Server**.
+
+**Features:**
+- User authentication & management  
+- Design flows (cart → order → payment → receipt)
+- Payment processing  
+- Receipt generation (PDF)  
+
+**Progress:**
+- Phase 1 completed using a procedural approach  
+- Currently refactoring toward **OOP architecture** and **RESTful APIs**  
+
+---
+
+### **Talkable – Graduation Project (Ongoing)**
+A **real-time communication platform** for people who **use sign language**.
+
+**My Role (Backend):**
+- Building REST APIs with **ASP.NET Core**  
+- Authentication & user management  
+- Database design and integration   
+
+---
+
+## 🛠 Skills
+- **Languages:** C#, C++, Dart  
+- **Frameworks:** ASP.NET Core, Flutter  
+- **Databases:** SQL Server, Entity Framework, ODBC  
+- REST APIs, Authentication  
+- Git & GitHub  
+
+---
+
+## 🎯 Current Focus
+- Backend development with **.NET**  
+- Real-world API design  
+- Preparing for **software engineering internships**  
+
+---
+
+## ⚡ Motto
+> **“Understand deeply, build simply.”**
