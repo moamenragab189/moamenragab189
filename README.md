@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moamen Ragab 👋</h1>
-<h3 align="center">Software Engineer </h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moamen-ragab/">
@@ -16,53 +16,53 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Software Engineer** with a strong interest in **backend development** and **mobile applications**.  
-I focus on building **clean, structured systems**, understanding how things work under the hood, and writing code that **scales efficiently**.
+I’m a **Software Engineer** focused on **backend systems and real-time applications**.  
+I enjoy building **scalable architectures**, working with APIs, and understanding how systems behave under real-world constraints.
 
 ---
 
 ## 🚧 Current Projects
 
-### **MyMarket – E-Commerce System (In Progress)**
-A backend-focused e-commerce system built with **.NET** and **SQL Server**.
+### 🤟 Talkable – AI-Powered Real-Time Communication Platform (Ongoing)
+A graduation project designed to enable communication for people who use sign language through **real-time video calls with AI-powered translation**.
 
-**Features:**
-- User authentication & management  
-- Design flows (cart → order → payment → receipt)
-- Payment processing  
-- Receipt generation (PDF)  
+**My Role (Backend Developer):**
+- Built a scalable backend using **ASP.NET Core (.NET 9)** with a layered architecture  
+- Developed a **real-time communication system using SignalR + WebRTC signaling** (rooms, offer/answer, ICE candidates)  
+- Integrated a **Python-based AI inference service** for gesture recognition and text prediction  
+- Implemented **JWT authentication and role-based authorization**  
+- Designed and managed database structure using **Entity Framework Core + SQL Server**  
+- Built a low-latency architecture for real-time communication flows  
 
-**Progress:**
-- Phase 1 completed using a procedural approach  
-- Currently refactoring toward **OOP architecture** and **RESTful APIs**  
-
----
-
-### **Talkable – Graduation Project (Ongoing)**
-A **real-time communication platform** for people who **use sign language**.
-
-**My Role (Backend):**
-- Building REST APIs with **ASP.NET Core**  
-- Authentication & user management  
-- Database design and integration   
+**Status:** Currently under active development as part of graduation requirements
 
 ---
 
-## 🛠 Skills
-- **Languages:** C#, C++, Dart  
-- **Frameworks:** ASP.NET Core, Flutter  
-- **Databases:** SQL Server, Entity Framework, ODBC  
-- REST APIs, Authentication  
-- Git & GitHub  
+## 🛠 Technical Skills
+
+**Backend Development**  
+ASP.NET Core (.NET 9), C#, RESTful API design, SignalR (real-time systems), Dependency Injection
+
+**System Design & Architecture**  
+Layered architecture, real-time communication systems, WebRTC signaling concepts, scalable backend design
+
+**Data & Persistence**  
+Entity Framework Core, SQL Server, relational database design
+
+**Authentication & Security**  
+JWT authentication, role-based authorization
+
+**Tools & Workflow**  
+Git, GitHub, Visual Studio, Postman
 
 ---
 
 ## 🎯 Current Focus
-- Backend development with **.NET**  
-- Real-world API design  
-- Preparing for **software engineering internships**  
+- Backend engineering with **.NET ecosystem**
+- Real-time system design (SignalR / WebRTC)
+- Preparing for **software engineering internships**
 
 ---
 
 ## ⚡ Motto
-> **“Understand deeply, build simply.”**
+> “Understand deeply, build simply.”
