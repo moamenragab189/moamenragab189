@@ -27,7 +27,7 @@ I enjoy building **scalable architectures**, working with APIs, and understandin
 A graduation project designed to enable communication for people who use sign language through **real-time video calls with AI-powered translation**.
 
 **My Role (Backend Developer):**
-- Built a scalable backend using **ASP.NET Core (.NET 9)** with a layered architecture  
+- Built a scalable backend using **ASP.NET Core** with a layered architecture  
 - Developed a **real-time communication system using SignalR + WebRTC signaling** (rooms, offer/answer, ICE candidates)  
 - Integrated a **Python-based AI inference service** for gesture recognition and text prediction  
 - Implemented **JWT authentication and role-based authorization**  
@@ -41,26 +41,21 @@ A graduation project designed to enable communication for people who use sign la
 ## 🛠 Technical Skills
 
 **Backend Development**  
-ASP.NET Core (.NET 9), C#, RESTful API design, SignalR (real-time systems), Dependency Injection
+ASP.NET Core , C#, Go, RESTful APIs, SignalR, Dependency Injection
 
-**System Design & Architecture**  
-Layered architecture, real-time communication systems, WebRTC signaling concepts, scalable backend design
+**Databases**  
+SQL Server, PostgreSQL, Entity Framework Core, relational database design
 
-**Data & Persistence**  
-Entity Framework Core, SQL Server, relational database design
-
-**Authentication & Security**  
-JWT authentication, role-based authorization
+**System Design & Real-Time Systems**  
+Layered architecture, WebRTC signaling concepts, scalable backend design
 
 **Tools & Workflow**  
-Git, GitHub, Visual Studio, Postman
+Git, GitHub, Visual Studio, VS Code, Postman
 
 ---
 
 ## 🎯 Current Focus
-- Backend engineering with **.NET ecosystem**
-- Real-time system design (SignalR / WebRTC)
-- Preparing for **software engineering internships**
+- Backend engineering 
 
 ---
 
